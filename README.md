@@ -2,6 +2,8 @@
 <a href="https://www.apache.org/licenses/LICENSE-2.0.txt"><img src="https://img.shields.io/badge/License-Apache-yellow"></a>  
 This is the official Github repository for my master's thesis.  
 
+![](agtree.png)
+
 # Authors
 [Wei-Jie (Jack) Chen](https://jackchen890311.github.io/) from NTU CSIE
 
