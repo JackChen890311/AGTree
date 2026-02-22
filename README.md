@@ -1,6 +1,8 @@
 # AGTree: Attention Guided Visual Concept Decomposition
 
-<a href="https://www.apache.org/licenses/LICENSE-2.0.txt"><img src="https://img.shields.io/badge/License-Apache-yellow"></a>  
+<a href="https://jackchen890311.github.io/2025/10/01/master-thesis-agtree/"><img src="https://img.shields.io/static/v1?label=Project&message=Blog&color=blue"></a>
+<a href="https://drive.google.com/file/d/1Lhk0NEJsf9AXwXrjmoTl0_GAZG2sqX7o/view"><img src="https://img.shields.io/badge/Paper-PDF-b31b1b.svg"></a>
+<a href="https://www.apache.org/licenses/LICENSE-2.0.txt"><img src="https://img.shields.io/badge/License-Apache-yellow"></a>
 
 This is the official Github repository for [AGTree: Attention Guided Visual Concept Decomposition](https://drive.google.com/file/d/1Lhk0NEJsf9AXwXrjmoTl0_GAZG2sqX7o/view?usp=sharing) ([Defense Slides](http://tinyurl.com/thesis-defense-jack)).
 
